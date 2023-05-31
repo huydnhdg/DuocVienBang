@@ -1,0 +1,40 @@
+28/06/2021 09:18: call api: 0965433459  kiemtra  
+28/06/2021 09:19: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84965433459&code=&category=&MaQua=&address=
+28/06/2021 09:19: response: {"Result":{"code":"XXXX","msisdn":"84965433459","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+28/06/2021 09:20: call api: 0395343943  kiemtra  
+28/06/2021 09:20: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84395343943&code=&category=&MaQua=&address=
+28/06/2021 09:20: response: {"Result":{"code":"XXXX","msisdn":"84395343943","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+28/06/2021 09:20: call api: 0965433459 AZ111111 tichdiem  
+28/06/2021 09:20: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=AZ111111&category=&MaQua=&address=
+28/06/2021 09:20: response: {"Result":{"code":"AZ111111","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+28/06/2021 09:21: call api: 0965433459  doiqua B1 TEST
+28/06/2021 09:21: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84965433459&code=&category=&MaQua=&address=
+28/06/2021 09:21: response: {"Result":{"code":"XXXX","msisdn":"84965433459","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+

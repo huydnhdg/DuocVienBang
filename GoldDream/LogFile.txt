@@ -1,0 +1,309 @@
+6/28/2019 10:55 AM: call api:   tichdiem 
+6/28/2019 10:55 AM: call api: 0965433459 3423423 tichdiem 
+6/28/2019 10:55 AM: response: {"Result":{"code":"3423423","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+6/28/2019 11:03 AM: call api: 965433459 sdfsdfd tichdiem 
+6/28/2019 11:03 AM: response: {"Result":{"code":"sdfsdfd","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+6/28/2019 11:33 AM: call api: 23423423  kiemtra 
+6/28/2019 11:33 AM: response: {"Result":{"code":"XXXX","msisdn":"8423423423","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+6/28/2019 11:33 AM: call api: 234234  doiqua 
+6/28/2019 11:33 AM: response: {"Result":{"message":"Bạn không đủ điểm hoặc sai mã quà !"}}
+
+
+
+
+
+
+
+6/28/2019 3:07 PM: call api: 343343 fdfdfd tichdiem GOLD60
+6/28/2019 3:08 PM: response: {"Result":{"code":"fdfdfd","msisdn":"84343343","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+6/28/2019 3:08 PM: call api: trtrt 45454 tichdiem 
+6/28/2019 3:08 PM: response: {"Result":{"code":"45454","msisdn":"84trtrt","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+6/28/2019 3:08 PM: call api: erere  kiemtra 
+6/28/2019 3:08 PM: response: {"Result":{"code":"XXXX","msisdn":"84erere","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+6/28/2019 3:11 PM: call api: 3343 dfsdf tichdiem 
+6/28/2019 3:11 PM: response: {"Result":{"code":"dfsdf","msisdn":"843343","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+6/28/2019 3:11 PM: call api: 43343 sfsdfsdf tichdiem GOLD60
+6/28/2019 3:11 PM: response: {"Result":{"code":"sfsdfsdf","msisdn":"8443343","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+6/28/2019 3:11 PM: call api: 5454545  kiemtra 
+6/28/2019 3:11 PM: response: {"Result":{"code":"XXXX","msisdn":"845454545","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+6/28/2019 3:11 PM: call api: 4545454  kiemtra GOLD60
+6/28/2019 3:11 PM: response: {"Result":{"code":"XXXX","msisdn":"844545454","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+6/28/2019 3:11 PM: call api: 454545  doiqua 
+6/28/2019 3:11 PM: response: {"Result":{"message":"Bạn không đủ điểm hoặc sai mã quà !"}}
+
+
+
+
+
+
+
+6/28/2019 3:11 PM: call api: 2323223  doiqua GOLD60
+6/28/2019 3:11 PM: response: {"Result":{"message":"Bạn không đủ điểm !"}}
+
+
+
+
+
+
+
+6/28/2019 3:12 PM: call api: 656556  doiqua GOLD60
+6/28/2019 3:12 PM: response: {"Result":{"message":"Bạn không đủ điểm !"}}
+
+
+
+
+
+
+
+7/11/2019 4:19 PM: call api: 0965433459 57424092 tichdiem GOLD60
+7/11/2019 4:19 PM: response: {"Result":{"code":"57424092","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+7/11/2019 4:20 PM: call api: 0965433459 57424092 tichdiem GOLD
+7/11/2019 4:20 PM: response: {"Result":{"code":"57424092","msisdn":"84965433459","message":"Mã Code đã được kích hoạt trước đó!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+08/20/2020 4:48 PM: call api:   tichdiem GOLD60
+08/20/2020 4:49 PM: call api:    tichdiem GOLD60
+08/20/2020 4:49 PM: response: {"Result":{}}
+
+
+
+
+
+
+
+08/20/2020 4:49 PM: call api:    dsdf  tichdiem GOLD60
+08/20/2020 4:49 PM: response: {"Result":{}}
+
+
+
+
+
+
+
+08/20/2020 4:57 PM: call api:     tichdiem GOLD
+08/20/2020 4:57 PM: response: {"Result":{"code":" ","msisdn":"84 ","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+08/20/2020 4:57 PM: call api:     tichdiem GOLD
+08/20/2020 4:57 PM: response: {"Result":{"code":" ","msisdn":"84 ","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+08/20/2020 4:57 PM: call api:     tichdiem GOLD
+08/20/2020 4:57 PM: response: {"Result":{"code":" ","msisdn":"84 ","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+08/20/2020 4:57 PM: call api:     tichdiem GOLD
+08/20/2020 4:57 PM: response: {"Result":{"code":" ","msisdn":"84 ","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+08/20/2020 4:57 PM: call api:     tichdiem GOLD
+08/20/2020 4:57 PM: response: {"Result":{"code":" ","msisdn":"84 ","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+08/20/2020 4:57 PM: call api:     tichdiem GOLD
+08/20/2020 4:57 PM: response: {"Result":{"code":" ","msisdn":"84 ","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+08/20/2020 4:57 PM: call api:     tichdiem GOLD
+08/20/2020 4:57 PM: response: {"Result":{"code":" ","msisdn":"84 ","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+08/20/2020 4:57 PM: call api:    tichdiem GOLD
+08/20/2020 4:57 PM: call api:   êrẻ tichdiem GOLD
+08/20/2020 4:57 PM: call api:   tichdiem GOLD
+08/20/2020 4:58 PM: call api:    tichdiem GOLD
+08/20/2020 4:58 PM: response: {"Result":{}}
+
+
+
+
+
+
+
+08/20/2020 4:58 PM: call api:     tichdiem GOLD
+08/20/2020 4:58 PM: response: {"Result":{"code":" ","msisdn":"84 ","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+9/15/2020 11:35 AM: call api: 0912345678  doiqua GOLD60
+9/15/2020 11:35 AM: response: {"Result":{"message":"Bạn không đủ điểm !"}}
+
+
+
+
+
+
+
+9/15/2020 11:35 AM: call api: 0912345678  doiqua GOLD
+9/15/2020 11:35 AM: response: {"Result":{"message":"Bạn không đủ điểm !"}}
+
+
+
+
+
+
+
+9/15/2020 3:54 PM: call api: 0912345678  doiqua GOLD
+9/15/2020 3:55 PM: call api: 0912345678  doiqua GOLD
+9/15/2020 4:32 PM: call api: 0912345678  doiqua GOLD
+9/15/2020 4:33 PM: response: {"Result":{"message":"Bạn không đủ điểm !"}}
+
+
+
+
+
+
+
+11/22/2022 9:31 AM: call api: 0965433459  kiemtra GOLD
+11/22/2022 9:31 AM: response: {"Result":{}}
+
+
+
+
+
+
+11/22/2022 9:31 AM: call api: 0965433459  kiemtra GOLD
+11/22/2022 9:33 AM: response: {"Result":{}}
+
+
+
+
+
+
+11/22/2022 9:34 AM: call api: 0965433459  doiqua GOLD60
+11/22/2022 9:35 AM: response: {"Result":{}}
+
+
+
+
+
+
+11/22/2022 9:46 AM: call api: 0965433459  kiemtra GOLD60
+11/22/2022 9:46 AM: response: {"Result":{"code":"XXXX","msisdn":"84965433459","message":"Thuê bao 84965433459 đang có 3 điểm!","point":"3","status":"1"}}
+
+
+
+
+
+

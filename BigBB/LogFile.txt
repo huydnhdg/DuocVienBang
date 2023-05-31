@@ -1,0 +1,545 @@
+10/17/2019 11:20 AM: call api: 84965433459 s9wn34v7 tichdiem  
+10/17/2019 11:20 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:20 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84965433459 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 84945577840 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84945577840&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84945577840","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:21 AM: call api: 0965433459 s9wn34v7 tichdiem  
+10/17/2019 11:21 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:21 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:25 AM: call api: 0965433459 s9wn34v7 tichdiem  
+10/17/2019 11:25 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:25 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:25 AM: call api: 0965433459 s9wn34v77 tichdiem  
+10/17/2019 11:25 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v77&category=&MaQua=&address=
+10/17/2019 11:25 AM: response: {"Result":{"code":"s9wn34v77","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:25 AM: call api: 096543 s9wn34v77 tichdiem  
+10/17/2019 11:25 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=8496543&code=s9wn34v77&category=&MaQua=&address=
+10/17/2019 11:25 AM: response: {"Result":{"code":"s9wn34v77","msisdn":"8496543","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:25 AM: call api: 096543 s9wn34v77 tichdiem  
+10/17/2019 11:25 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=8496543&code=s9wn34v77&category=&MaQua=&address=
+10/17/2019 11:25 AM: response: {"Result":{"code":"s9wn34v77","msisdn":"8496543","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:25 AM: call api: 096543 s9wn34v77 tichdiem  
+10/17/2019 11:25 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=8496543&code=s9wn34v77&category=&MaQua=&address=
+10/17/2019 11:25 AM: response: {"Result":{"code":"s9wn34v77","msisdn":"8496543","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:26 AM: call api: 0965433459 s9wn34v7 tichdiem  
+10/17/2019 11:26 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:26 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:26 AM: call api: 0965433459 s9wn34v7 tichdiem  
+10/17/2019 11:26 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:26 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:28 AM: call api: 84903403659  kiemtra  
+10/17/2019 11:28 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84903403659&code=&category=&MaQua=&address=
+10/17/2019 11:28 AM: response: {"Result":{"code":"XXXX","msisdn":"84903403659","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:28 AM: call api: 84903403659  kiemtra  
+10/17/2019 11:28 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84903403659&code=&category=&MaQua=&address=
+10/17/2019 11:28 AM: response: {"Result":{"code":"XXXX","msisdn":"84903403659","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:28 AM: call api: 8787878  kiemtra  
+10/17/2019 11:28 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=848787878&code=&category=&MaQua=&address=
+10/17/2019 11:28 AM: response: {"Result":{"code":"XXXX","msisdn":"848787878","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:28 AM: call api: 8787878  kiemtra  
+10/17/2019 11:28 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=848787878&code=&category=&MaQua=&address=
+10/17/2019 11:28 AM: response: {"Result":{"code":"XXXX","msisdn":"848787878","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:28 AM: call api: 8787878  kiemtra  
+10/17/2019 11:28 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=848787878&code=&category=&MaQua=&address=
+10/17/2019 11:28 AM: response: {"Result":{"code":"XXXX","msisdn":"848787878","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:28 AM: call api: 8787878989898  kiemtra  
+10/17/2019 11:29 AM: call api: 8787878989898  kiemtra  
+10/17/2019 11:29 AM: call api: 878787  kiemtra  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84878787&code=&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"XXXX","msisdn":"84878787","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 878787  kiemtra  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84878787&code=&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"XXXX","msisdn":"84878787","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 878787  kiemtra  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84878787&code=&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"XXXX","msisdn":"84878787","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 878787  kiemtra  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84878787&code=&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"XXXX","msisdn":"84878787","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 8787875454  kiemtra  
+10/17/2019 11:29 AM: call api: 878787545  kiemtra  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84878787545&code=&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"XXXX","msisdn":"84878787545","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 878787549  kiemtra  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84878787549&code=&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"XXXX","msisdn":"84878787549","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 878787546  kiemtra  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84878787546&code=&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"XXXX","msisdn":"84878787546","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 87878  kiemtra  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=8487878&code=&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"XXXX","msisdn":"8487878","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 0965433459 s9wn34v7 tichdiem  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v7&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"s9wn34v7","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 0965433459 s9wn34v7dfsdf tichdiem  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v7dfsdf&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"s9wn34v7dfsdf","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 0965433459454545 s9wn34v7dfsdf tichdiem  
+10/17/2019 11:29 AM: call api: 0965433459 s9wn34v7dfsdf tichdiem  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v7dfsdf&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"s9wn34v7dfsdf","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:29 AM: call api: 0965433459 s9wn34v7dfsdf tichdiem  
+10/17/2019 11:29 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=s9wn34v7dfsdf&category=&MaQua=&address=
+10/17/2019 11:29 AM: response: {"Result":{"code":"s9wn34v7dfsdf","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:30 AM: call api: 0965433459 êrẻ tichdiem  
+10/17/2019 11:30 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=êrẻ&category=&MaQua=&address=
+10/17/2019 11:30 AM: response: {"Result":{"code":"êrẻ","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:30 AM: call api: 0965433459 ể tichdiem  
+10/17/2019 11:30 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=ể&category=&MaQua=&address=
+10/17/2019 11:30 AM: response: {"Result":{"code":"ể","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:30 AM: call api: 0965433459 édf tichdiem  
+10/17/2019 11:30 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=édf&category=&MaQua=&address=
+10/17/2019 11:30 AM: response: {"Result":{"code":"édf","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:31 AM: call api: 0965433459 dfadf tichdiem  
+10/17/2019 11:31 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=dfadf&category=&MaQua=&address=
+10/17/2019 11:31 AM: response: {"Result":{"code":"dfadf","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:31 AM: call api: 0965433459 dfadfbbbb tichdiem  
+10/17/2019 11:31 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=dfadfbbbb&category=&MaQua=&address=
+10/17/2019 11:31 AM: response: {"Result":{"code":"dfadfbbbb","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+10/17/2019 11:31 AM: call api: 0965433459 aâgd tichdiem  
+10/17/2019 11:31 AM: request: http://sms.bluesea.vn:8000/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84965433459&code=aâgd&category=&MaQua=&address=
+10/17/2019 11:31 AM: response: {"Result":{"code":"aâgd","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+3/2/2023 11:23 AM: call api: 84971525042 z3998aev3 tichdiem  
+3/2/2023 11:23 AM: request: http://sms.bluesea.vn:8080/SmsPortal/vbapi.jsp?&commandcode=tichdiem&msisdn=84971525042&code=z3998aev3&category=&MaQua=&address=
+3/2/2023 11:23 AM: response: {"Result":{"code":"z3998aev3","msisdn":"84971525042","message":"Tích điểm thành công! Bạn đang có 15 điểm!","point":"15","status":"1"}}
+
+
+
+
+
+
+3/2/2023 11:25 AM: call api: 84971525042 z3998aev3 tichdiem  
+3/2/2023 11:41 AM: call api: 84971525042 z3998aev3 tichdiem  
+3/2/2023 11:42 AM: call api: 84971525042 z3998aev3 tichdiem  
+3/2/2023 3:28 PM: call api: 84344971110  doiqua F10 DC số 30 lô tt01 ngõ 4 hàm nghi
+3/2/2023 3:30 PM: request: http://sms.bluesea.vn:8080/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84344971110&code=&category=&MaQua=&address=
+3/2/2023 3:30 PM: response: {"Result":{"code":"XXXX","msisdn":"84344971110","message":"Thuê bao 84344971110 đang có 24 điểm!","point":"24","status":"1"}}
+
+
+
+
+
+
+3/2/2023 3:30 PM: call api: 84344971110  doiqua F10 DC số 30 lô tt01 ngõ 4 hàm nghi
+3/2/2023 3:34 PM: request: http://sms.bluesea.vn:8080/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84344971110&code=&category=&MaQua=&address=
+3/2/2023 3:34 PM: response: {"Result":{"code":"XXXX","msisdn":"84344971110","message":"Thuê bao 84344971110 đang có 24 điểm!","point":"24","status":"1"}}
+
+
+
+
+
+
+3/2/2023 3:34 PM: call api: 84344971110  doiqua F10 DC số 30 lô tt01 ngõ 4 hàm nghi
+3/2/2023 3:35 PM: request: http://sms.bluesea.vn:8080/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84344971110&code=&category=&MaQua=&address=
+3/2/2023 3:35 PM: response: {"Result":{"code":"XXXX","msisdn":"84344971110","message":"Thuê bao 84344971110 đang có 24 điểm!","point":"24","status":"1"}}
+
+
+
+
+
+
+3/2/2023 3:37 PM: call api: 84344971110  doiqua F10 HN
+3/2/2023 3:37 PM: request: http://sms.bluesea.vn:8080/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84344971110&code=&category=&MaQua=&address=
+3/2/2023 3:37 PM: response: {"Result":{"code":"XXXX","msisdn":"84344971110","message":"Thuê bao 84344971110 đang có 24 điểm!","point":"24","status":"1"}}
+
+
+
+
+
+
+3/2/2023 3:40 PM: request: http://sms.bluesea.vn:8080/SmsPortal/vbapi.jsp?&commandcode=doiqua&msisdn=84344971110&code=&category=&MaQua=F10&address=HN
+3/2/2023 3:40 PM: response: {"Result":{"message":"Bạn không đủ điểm !"}}
+
+
+
+
+
+
+3/2/2023 3:41 PM: call api: 84344971110  doiqua F10 HN
+3/2/2023 3:41 PM: request: http://sms.bluesea.vn:8080/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84344971110&code=&category=&MaQua=&address=
+3/2/2023 3:41 PM: response: {"Result":{"code":"XXXX","msisdn":"84344971110","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+3/2/2023 3:43 PM: call api: 84344971110  doiqua F10 HN
+3/2/2023 3:43 PM: request: http://sms.bluesea.vn:8080/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84344971110&code=&category=&MaQua=&address=
+3/2/2023 3:43 PM: response: {"Result":{"code":"XXXX","msisdn":"84344971110","message":"Thuê bao 84344971110 đang có 24 điểm!","point":"24","status":"1"}}
+
+
+
+
+
+
+3/2/2023 3:43 PM: request: http://sms.bluesea.vn:8080/SmsPortal/vbapi.jsp?&commandcode=doiqua&msisdn=84344971110&code=&category=&MaQua=F10&address=HN
+3/2/2023 3:43 PM: response: {"Result":{"message":"Bạn đã đổi quà thành công !"}}
+
+
+
+
+
+
+4/4/2023 2:49 PM: call api: 0399570217  kiemtra  
+4/4/2023 2:49 PM: request: http://sms.bluesea.vn:8080/SmsPortal/vbapi.jsp?&commandcode=kiemtra&msisdn=84399570217&code=&category=&MaQua=&address=
+4/4/2023 2:49 PM: response: {"Result":{"code":"XXXX","msisdn":"84399570217","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+

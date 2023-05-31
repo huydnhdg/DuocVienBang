@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Bluesea1\Desktop\goldream</_PublishTargetUrl>
+    <History>True|2023-05-10T01:24:49.4451301Z;True|2022-11-22T10:02:30.5193541+07:00;True|2022-11-21T16:11:00.0293885+07:00;True|2022-11-21T16:03:16.0058069+07:00;True|2022-11-17T09:15:48.2005166+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BigBB.dll">
+      <publishTime>02/05/2018 09:18:45</publishTime>
+    </File>
+    <File Include="bin/BigBB.pdb">
+      <publishTime>02/05/2018 09:18:45</publishTime>
+    </File>
+    <File Include="bin/GoldDream.dll">
+      <publishTime>05/10/2023 09:28:38</publishTime>
+    </File>
+    <File Include="bin/GoldDream.pdb">
+      <publishTime>05/10/2023 09:28:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>02/02/2023 16:02:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>02/02/2023 16:02:58</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/02/2023 16:02:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.Process.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.DriveInfo.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Thread.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>02/02/2023 16:02:57</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>06/27/2021 16:30:49</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>06/27/2021 16:30:49</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Encoding.dll">
+      <publishTime>06/27/2021 16:30:49</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Primitives.dll">
+      <publishTime>06/27/2021 16:30:49</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>06/27/2021 16:30:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>02/02/2023 16:02:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>02/02/2023 16:02:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>02/02/2023 16:02:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>02/02/2023 16:02:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>02/02/2023 16:02:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>02/02/2023 16:02:56</publishTime>
+    </File>
+    <File Include="Content/animate.css">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="fonts/utmavobold.eot">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="fonts/utmavobold.ttf">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="fonts/utmavobold.woff">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/2.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/3.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/ajax-loader.gif">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/banner-bigbb-2018.jpg">
+      <publishTime>01/31/2018 09:57:51</publishTime>
+    </File>
+    <File Include="image/banner-goldream.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/banner-quatang-mobile.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/banner-quatang-pc.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/banner-quà-tặng1.jpg">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/banner-quà-tặng2.jpg">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/bg3.png">
+      <publishTime>01/31/2018 11:22:04</publishTime>
+    </File>
+    <File Include="image/cac-buoc-thuc-hien-tich-diem-bigbb-2.png">
+      <publishTime>01/31/2018 11:00:55</publishTime>
+    </File>
+    <File Include="image/cac-muc-qua.png">
+      <publishTime>01/31/2018 09:59:35</publishTime>
+    </File>
+    <File Include="image/cach-tich-diem.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/cu-phap-nhan-qua-bigbb,-bigbb-plus,-kaobb.png">
+      <publishTime>01/31/2018 10:55:03</publishTime>
+    </File>
+    <File Include="image/dat-hang-online.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/doi-10-hop-bigbb.png">
+      <publishTime>01/31/2018 10:14:48</publishTime>
+    </File>
+    <File Include="image/doi-15-hop-bigbb.png">
+      <publishTime>01/31/2018 10:14:48</publishTime>
+    </File>
+    <File Include="image/doi-30-hop-bigbb.png">
+      <publishTime>01/31/2018 10:14:48</publishTime>
+    </File>
+    <File Include="image/doi-6-hop-bigbb.png">
+      <publishTime>01/31/2018 10:14:48</publishTime>
+    </File>
+    <File Include="image/doi-qua-goldream.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/hotline-doi-qua.png">
+      <publishTime>01/31/2018 11:02:27</publishTime>
+    </File>
+    <File Include="image/hotline.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/icon-hotline.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/Image_9_5/12 điểm.png">
+      <publishTime>05/09/2023 15:31:24</publishTime>
+    </File>
+    <File Include="image/Image_9_5/18 điểm.png">
+      <publishTime>05/09/2023 15:31:24</publishTime>
+    </File>
+    <File Include="image/Image_9_5/24 điểm.png">
+      <publishTime>05/09/2023 15:31:24</publishTime>
+    </File>
+    <File Include="image/Image_9_5/30 điểm.png">
+      <publishTime>05/09/2023 15:31:24</publishTime>
+    </File>
+    <File Include="image/Image_9_5/6 điểm.png">
+      <publishTime>05/09/2023 15:31:24</publishTime>
+    </File>
+    <File Include="image/Image_9_5/Hướng dẫn tích điểm GD.png">
+      <publishTime>05/09/2023 15:31:24</publishTime>
+    </File>
+    <File Include="image/Image_9_5/ảnh demo tem GD dạng hộp.png">
+      <publishTime>05/09/2023 15:31:24</publishTime>
+    </File>
+    <File Include="image/Image_9_5/ảnh demo tem GD dạng lọ.png">
+      <publishTime>05/09/2023 15:31:24</publishTime>
+    </File>
+    <File Include="image/Image_9_5/Ảnh zoom tem dạng hộp GD.png">
+      <publishTime>05/09/2023 15:31:24</publishTime>
+    </File>
+    <File Include="image/Image_9_5/ảnh zoom tem dạng lọ GD.png">
+      <publishTime>05/09/2023 15:31:24</publishTime>
+    </File>
+    <File Include="image/logo-goldream.png">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="image/mua-tai-nha-thuoc.png">
+      <publishTime>02/02/2023 16:02:48</publishTime>
+    </File>
+    <File Include="image/nap-bigbb-plus.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/nap-bigbb.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/nap-kaobb.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/nt-tích-điểm-1.jpg">
+      <publishTime>02/02/2023 16:02:48</publishTime>
+    </File>
+    <File Include="image/nt-tích-điểm-2.jpg">
+      <publishTime>02/02/2023 16:02:48</publishTime>
+    </File>
+    <File Include="image/thoi-gian-ap-dung.png">
+      <publishTime>02/02/2023 16:02:48</publishTime>
+    </File>
+    <File Include="image/tich-diem-gorldream.png">
+      <publishTime>02/02/2023 16:02:48</publishTime>
+    </File>
+    <File Include="image/tong-dai-goldream.png">
+      <publishTime>02/02/2023 16:02:48</publishTime>
+    </File>
+    <File Include="image/tra-cuu-diem-bigbb,-bigbb-plus,-kaobb.png">
+      <publishTime>01/31/2018 10:44:59</publishTime>
+    </File>
+    <File Include="image/tra-cuu-diem-goldream.png">
+      <publishTime>02/02/2023 16:02:48</publishTime>
+    </File>
+    <File Include="image/vo-hop-gorldream.png">
+      <publishTime>02/02/2023 16:02:48</publishTime>
+    </File>
+    <File Include="image/xem-diem-ban-bigbb-plus1.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/xem-diem-ban-bigbb1.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/xem-diem-ban-kaobb1.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/zoom-goldream.png">
+      <publishTime>02/02/2023 16:02:48</publishTime>
+    </File>
+    <File Include="Scripts/agency.min.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/callapi.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/callapi60.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/dcallapi.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/dcallapi60.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/mcallapi.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/mcallapi60.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Scripts/wow.min.js">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Views/Default/Index.cshtml">
+      <publishTime>05/10/2023 09:43:23</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>02/02/2023 16:02:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/10/2023 08:24:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

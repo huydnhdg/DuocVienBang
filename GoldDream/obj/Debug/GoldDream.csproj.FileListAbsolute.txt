@@ -1,0 +1,175 @@
+E:\bluesea.net\golddream\BigBB\BigBB\bin\BigBB.dll.config
+E:\bluesea.net\golddream\BigBB\BigBB\bin\BigBB.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\BigBB.pdb
+E:\bluesea.net\golddream\BigBB\BigBB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\Microsoft.Web.Infrastructure.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\Newtonsoft.Json.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Net.Http.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Security.Cryptography.Algorithms.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Security.Cryptography.Encoding.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Security.Cryptography.Primitives.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Security.Cryptography.X509Certificates.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Helpers.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Mvc.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Razor.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Webpages.Deployment.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Webpages.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Webpages.Razor.dll
+E:\bluesea.net\golddream\BigBB\BigBB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\bluesea.net\golddream\BigBB\BigBB\bin\Newtonsoft.Json.xml
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Razor.xml
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Webpages.xml
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Webpages.Deployment.xml
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Webpages.Razor.xml
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Helpers.xml
+E:\bluesea.net\golddream\BigBB\BigBB\bin\System.Web.Mvc.xml
+E:\bluesea.net\golddream\BigBB\BigBB\obj\Debug\GoldDream.csproj.CoreCompileInputs.cache
+E:\bluesea.net\golddream\BigBB\BigBB\obj\Debug\BigBB.dll
+E:\bluesea.net\golddream\BigBB\BigBB\obj\Debug\BigBB.pdb
+E:\bluesea.net\golddream\BigBB\BigBB\obj\Debug\GoldDream.csproj.CopyComplete
+E:\bluesea.net\golddream\BigBB\BigBB\obj\Debug\GoldDream.csprojAssemblyReference.cache
+D:\ASP\Goldream\BigBB\BigBB\bin\BigBB.dll.config
+D:\ASP\Goldream\BigBB\BigBB\bin\BigBB.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\BigBB.pdb
+D:\ASP\Goldream\BigBB\BigBB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\Newtonsoft.Json.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Net.Http.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Security.Cryptography.Algorithms.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Security.Cryptography.Encoding.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Security.Cryptography.Primitives.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Security.Cryptography.X509Certificates.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Helpers.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Mvc.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Razor.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Webpages.Deployment.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Webpages.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Webpages.Razor.dll
+D:\ASP\Goldream\BigBB\BigBB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP\Goldream\BigBB\BigBB\bin\Newtonsoft.Json.xml
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Razor.xml
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Webpages.xml
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Webpages.Deployment.xml
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Webpages.Razor.xml
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Helpers.xml
+D:\ASP\Goldream\BigBB\BigBB\bin\System.Web.Mvc.xml
+D:\ASP\Goldream\BigBB\BigBB\obj\Debug\GoldDream.csprojAssemblyReference.cache
+D:\ASP\Goldream\BigBB\BigBB\obj\Debug\GoldDream.csproj.CoreCompileInputs.cache
+D:\ASP\Goldream\BigBB\BigBB\obj\Debug\GoldDream.csproj.CopyComplete
+D:\ASP\Goldream\BigBB\BigBB\obj\Debug\BigBB.dll
+D:\ASP\Goldream\BigBB\BigBB\obj\Debug\BigBB.pdb
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\GoldDream.dll.config
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\GoldDream.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\GoldDream.pdb
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\Microsoft.Web.Infrastructure.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\Newtonsoft.Json.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Net.Http.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Security.Cryptography.Algorithms.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Security.Cryptography.Encoding.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Security.Cryptography.Primitives.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Security.Cryptography.X509Certificates.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Helpers.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Mvc.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Razor.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Webpages.Deployment.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Webpages.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Webpages.Razor.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\Newtonsoft.Json.xml
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Razor.xml
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Webpages.xml
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Webpages.Deployment.xml
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Webpages.Razor.xml
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Helpers.xml
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\bin\System.Web.Mvc.xml
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\obj\Debug\GoldDream.csproj.AssemblyReference.cache
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\obj\Debug\GoldDream.csproj.CoreCompileInputs.cache
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\obj\Debug\GoldDream.csproj.CopyComplete
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\obj\Debug\GoldDream.dll
+D:\02_GitHub\19_TDXT_VIENBANG\VIENBANG\GoldDream\obj\Debug\GoldDream.pdb
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\GoldDream.dll.config
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\GoldDream.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\GoldDream.pdb
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\Newtonsoft.Json.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Net.Http.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Helpers.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Mvc.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Razor.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Webpages.Deployment.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Webpages.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Webpages.Razor.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\Newtonsoft.Json.xml
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Razor.xml
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Webpages.xml
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Webpages.Deployment.xml
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Webpages.Razor.xml
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Helpers.xml
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\bin\System.Web.Mvc.xml
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\obj\Debug\GoldDream.csproj.AssemblyReference.cache
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\obj\Debug\GoldDream.csproj.CoreCompileInputs.cache
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\obj\Debug\GoldDream.csproj.CopyComplete
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\obj\Debug\GoldDream.dll
+C:\Users\thaih\OneDrive\Máy tính\VIENBANG\GoldDream\obj\Debug\GoldDream.pdb
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\GoldDream.dll.config
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\GoldDream.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\GoldDream.pdb
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\Microsoft.Web.Infrastructure.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\Newtonsoft.Json.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Net.Http.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Security.Cryptography.Algorithms.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Security.Cryptography.Encoding.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Security.Cryptography.Primitives.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Security.Cryptography.X509Certificates.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Helpers.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Mvc.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Razor.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Webpages.Deployment.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Webpages.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Webpages.Razor.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\Newtonsoft.Json.xml
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Razor.xml
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Webpages.xml
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Webpages.Deployment.xml
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Webpages.Razor.xml
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Helpers.xml
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\bin\System.Web.Mvc.xml
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\obj\Debug\GoldDream.csproj.AssemblyReference.cache
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\obj\Debug\GoldDream.csproj.CoreCompileInputs.cache
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\obj\Debug\GoldDream.csproj.CopyComplete
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\obj\Debug\GoldDream.dll
+E:\github\TICHDIEM_VIENBANG_TANQUANG\VIENBANG\GoldDream\obj\Debug\GoldDream.pdb
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\GoldDream.dll.config
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\GoldDream.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\GoldDream.pdb
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\Newtonsoft.Json.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Helpers.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Mvc.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Razor.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Webpages.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\Newtonsoft.Json.xml
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Razor.xml
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Webpages.xml
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Helpers.xml
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\bin\System.Web.Mvc.xml
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\obj\Debug\GoldDream.csproj.AssemblyReference.cache
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\obj\Debug\GoldDream.csproj.CoreCompileInputs.cache
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\obj\Debug\GoldDream.csproj.CopyComplete
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\obj\Debug\GoldDream.dll
+C:\Users\Bluesea1\source\repos\DUOCVIENBANG_V2\GoldDream\obj\Debug\GoldDream.pdb
